@@ -47,7 +47,7 @@
 
 - [YouTubе: Mixseil](https://www.youtube.com/@mixseil  )
 - [VK Видео: Mixseil ](https://vkvideo.ru/@club236677349)
-- [Telegram (канал автора): M](https://t.me/MixseilC)
+- [Telegram (канал автора): M](https://t.me/MixseilsC)
 - [Telegram (канал с материалами курса): M-Course UE5](https://t.me/MixseilCourses)
 - [Boosty (поддержка курса и консультации): Mixseil](https://boosty.to/mixseil  )
 - [Discord (обсуждение курса): Triblycut ](https://discord.gg/fxNhWg6n73)
