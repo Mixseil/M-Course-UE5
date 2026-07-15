@@ -1,6 +1,6 @@
 # Курс по Unreal Engine 5 (RU)
 
-Это репозиторий с материалами к моему бесплатному курсу по Unreal Engine 5 в сопровождении [YouTube](https://www.youtube.com/@mixseil ) и [ВКвидео.](https://vkvideo.ru/@club236677349)
+Это репозиторий с материалами к моему бесплатному курсу по Unreal Engine 5 в сопровождении [YouTube](https://www.youtube.com/@mixseil ) и [ВКвидео.](https://vkvideo.ru/@club236677349) и [RuTube](https://rutube.ru/channel/78224384/videos/)
 
 Здесь лежат:
 - конспекты по модулям и занятиям;
@@ -35,7 +35,7 @@
 
 ## Как пользоваться репозиторием
 
-1. Видео по курсу не тут, они на [YouTube](https://www.youtube.com/@mixseil ) или [ВКвидео.](https://vkvideo.ru/@club236677349)
+1. Видео по курсу не тут, они на [YouTube](https://www.youtube.com/@mixseil ),  или [ВКвидео.](https://vkvideo.ru/@club236677349) или Rutube
 
 2. В каталоге [`LESSONS`](./LESSONS) найдите нужный модуль и занятие.  
    В начале каждого `.md` файла есть ссылка на соответствующее видео.
